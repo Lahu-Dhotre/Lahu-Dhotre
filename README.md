@@ -1,6 +1,6 @@
 # Hi, I'm Lahu Dhotre 👋
 
-AI/ML Engineer | Generative AI | LLMs | RAG | MCP | Agentic AI
+Data Scientist | AI/ML Engineer | Generative AI | LLMs | RAG | MCP | Agentic AI
 
 Pune, India • lahudhotre667@gmail.com
 
@@ -10,9 +10,22 @@ Pune, India • lahudhotre667@gmail.com
 
 ## About Me
 
-I am an AI/ML Engineer with a strong focus on building production-ready machine learning and generative AI solutions. My work spans large language models (LLMs), retrieval-augmented generation (RAG), agentic AI systems, cloud deployment, and applied ML workflows.
+I am a Data Scientist and AI/ML Engineer focused on building production-ready machine learning, predictive analytics, and generative AI solutions. My work spans data science, large language models (LLMs), retrieval-augmented generation (RAG), agentic AI systems, and end-to-end AI product development.
 
-I enjoy turning research ideas into reliable, scalable AI products that solve real business problems and improve user experiences.
+I enjoy turning raw data and research ideas into business-impacting AI systems with a strong focus on accuracy, scalability, explainability, and deployment quality.
+
+---
+
+## Data Scientist & ML Focus
+
+- Data analysis and exploratory data analysis (EDA)
+- Statistical modeling and predictive analytics
+- Machine learning model development and evaluation
+- Feature engineering and data preprocessing
+- Experiment tracking and model validation
+- Business problem solving through data-driven insights
+- Deployment of ML models in real-world environments
+- AI-powered analytics and decision support systems
 
 ---
 
@@ -22,6 +35,7 @@ I enjoy turning research ideas into reliable, scalable AI products that solve re
 - RAG pipelines for enterprise knowledge search and question answering
 - Agentic and multi-agent AI workflows
 - ML systems for prediction, automation, and analytics
+- End-to-end data science workflows from raw data to production
 - MLOps pipelines for model deployment and monitoring
 - AI products with strong evaluation, observability, and performance tuning
 
@@ -29,11 +43,16 @@ I enjoy turning research ideas into reliable, scalable AI products that solve re
 
 ## Core Expertise
 
-### AI & Machine Learning
+### Data Science & Machine Learning
+- Data Science
 - Machine Learning
 - Deep Learning
+- Predictive Analytics
+- Statistical Modeling
+- Feature Engineering
+- Model Training & Evaluation
+- Time Series Analysis
 - NLP
-- Computer Vision (foundational exposure)
 - Generative AI
 - LLM Applications
 - RAG / GraphRAG
@@ -49,8 +68,8 @@ I enjoy turning research ideas into reliable, scalable AI products that solve re
 - NumPy
 - PySpark
 - Data Pipelines
-- Feature Engineering
-- Data Cleaning and Transformation
+- Data Cleaning
+- Data Wrangling
 - MLOps
 
 ### Generative AI Stack
@@ -85,10 +104,10 @@ I enjoy turning research ideas into reliable, scalable AI products that solve re
 
 ---
 
-## Featured AI Projects
+## Featured AI & Data Science Projects
 
 ### 1. Enterprise Knowledge Assistant
-- Built a conversational AI assistant for internal enterprise knowledge retrieval
+- Built a conversational AI assistant for enterprise knowledge retrieval
 - Integrated semantic search, document retrieval, and answer generation
 - Used RAG architecture for grounded, domain-aware responses
 - Stack: Python, Azure OpenAI, LangChain, FAISS, FastAPI
@@ -99,23 +118,23 @@ I enjoy turning research ideas into reliable, scalable AI products that solve re
 - Designed for business workflows where accuracy and traceability matter
 - Stack: LLMs, RAG, Vector DB, REST APIs
 
-### 3. Multi-Agent Workflow Automation
+### 3. Predictive Analytics and ML Modeling
+- Created and deployed machine learning models for structured data analysis
+- Worked on feature engineering, model selection, and performance monitoring
+- Focused on actionable insights and business value
+- Stack: Python, scikit-learn, MLflow, Docker
+
+### 4. Multi-Agent Workflow Automation
 - Designed a multi-agent AI workflow for automation and information processing
 - Used role-based agents to coordinate research, reasoning, and output generation
 - Applied to productivity and process optimization scenarios
 - Stack: LangGraph, CrewAI, Python, LLM orchestration
 
-### 4. Customer Support AI Copilot
+### 5. Customer Support AI Copilot
 - Built an LLM-based assistant to support support agents with contextual answers
 - Combined retrieval, summarization, and response generation for assistance workflows
 - Improved efficiency and consistency in customer interactions
 - Stack: LLMs, RAG, NLP, FastAPI, Azure AI
-
-### 5. Predictive ML Pipeline
-- Created a machine learning pipeline for structured data analysis and deployment
-- Included preprocessing, model training, validation, and monitoring
-- Focused on reproducibility, automation, and production readiness
-- Stack: Python, scikit-learn, MLflow, Docker
 
 ---
 
@@ -159,9 +178,9 @@ I enjoy turning research ideas into reliable, scalable AI products that solve re
 
 ---
 
-## Why I Work in AI
+## Why I Work in Data Science & AI
 
-I am motivated by the opportunity to build intelligent systems that are not only powerful, but also practical, responsible, and useful in real-world environments. I focus on building AI systems that can scale, adapt, and deliver measurable value.
+I am motivated by the opportunity to use data and AI to uncover patterns, solve complex problems, and create systems that deliver real-world impact. I focus on building intelligent, reliable, and scalable solutions that combine analytical thinking with production engineering.
 
 ---
 
@@ -171,4 +190,4 @@ I am motivated by the opportunity to build intelligent systems that are not only
 - GitHub: [@Lahu-Dhotre](https://github.com/Lahu-Dhotre)
 - Email: lahudhotre667@gmail.com
 
-I’m always open to collaborating on AI, ML, LLM, RAG, and Agentic AI projects.
+I’m always open to collaborating on Data Science, AI, ML, LLM, RAG, and Agentic AI projects.
