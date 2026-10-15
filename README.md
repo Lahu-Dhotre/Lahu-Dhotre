@@ -1,47 +1,85 @@
-<h1 align="center">Hi there, I'm Lahu Dhotre 👋</h1>
+<h1 align="center">Hi, I'm Lahu Dhotre 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;ML+%26+Generative+AI;Building+RAG+%7C+Agentic+AI;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C+Agentic+AI;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lahu-Dhotre"><img src="https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/lahu-dhotre/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:lahudhotre667@gmail.com"><img src="https://img.shields.io/badge/Email-lahudhotre667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Lahu-Dhotre"><img src="https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/lahu-dhotre/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lahudhotre667@gmail.com"><img src="https://img.shields.io/badge/Email-lahudhotre667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About
+## About Me
 
-AI Engineer focused on building production-ready Machine Learning and Generative AI applications. I build RAG systems, multi-agent workflows, and model-driven products that solve real business problems.
+I am an AI Engineer and Machine Learning enthusiast focused on building intelligent, scalable, and production-ready AI systems. My work spans Generative AI, LLM applications, RAG pipelines, multi-agent systems, predictive analytics, and end-to-end ML solutions.
 
-- Location: Pune, India
-- Email: lahudhotre667@gmail.com
-- Open to: Collaborations, freelance & full-time AI/ML roles
+I enjoy turning business problems into practical AI products by combining strong model design, clean engineering, and measurable impact.
 
----
-
-## 🔭 Featured Projects
-
-I picked a few public repositories from your account to feature. Click to explore:
-
-- [rag-ai-teaching-assistant](https://github.com/Lahu-Dhotre/rag-ai-teaching-assistant) — LLM + RAG-based teaching assistant, vector DB integration and document Q&A.
-- [agentic-ai-travel-planner](https://github.com/Lahu-Dhotre/agentic-ai-travel-planner) — Agentic AI travel planner demonstrating multi-agent workflows.
-- [ai-qa-system](https://github.com/Lahu-Dhotre/ai-qa-system) — Notebook demonstrating Q&A system pipelines and evaluation.
-- [movie-recommendation-system](https://github.com/Lahu-Dhotre/movie-recommendation-system) — Recommendation engine built with Python.
-
-(If you'd like different projects featured, tell me which ones and I'll swap them.)
+- Pune, India
+- Open to AI/ML collaborations and opportunities
 
 ---
 
-## 🛠 Tech & Tools
+## Core Focus
 
-Python • PyTorch • TensorFlow • LangChain • LangGraph • Azure OpenAI • Hugging Face • FAISS • Chroma • Pinecone • PGVector • FastAPI • Docker • Kubernetes • MLflow
+- Machine Learning & Deep Learning
+- Generative AI & Large Language Models
+- RAG, GraphRAG & Knowledge Retrieval
+- Agentic AI & Multi-Agent Workflows
+- Model Fine-Tuning & Evaluation
+- MLOps, Deployment & Monitoring
+- AI Product Strategy & Real-World Impact
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+- [rag-ai-teaching-assistant](https://github.com/Lahu-Dhotre/rag-ai-teaching-assistant)  
+  AI-powered teaching assistant using Retrieval-Augmented Generation for grounded Q&A and learning support.
+
+- [agentic-ai-travel-planner](https://github.com/Lahu-Dhotre/agentic-ai-travel-planner)  
+  Multi-agent travel planner using agentic workflows for planning and reasoning tasks.
+
+- [ai-qa-system](https://github.com/Lahu-Dhotre/ai-qa-system)  
+  Question-answering system project focused on building AI-powered information retrieval experiences.
+
+- [movie-recommendation-system](https://github.com/Lahu-Dhotre/movie-recommendation-system)  
+  Recommendation-based ML application for personalized suggestions and ranking.
+
+---
+
+## Tech Stack
+
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### LLM / RAG / Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-7A3FF2?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-3A3A3A?style=flat-square)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### Data & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lahu-Dhotre&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -53,12 +91,10 @@ Python • PyTorch • TensorFlow • LangChain • LangGraph • Azure OpenAI �
 
 ---
 
-## 📫 Connect
+## Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/lahu-dhotre/
 - GitHub: https://github.com/Lahu-Dhotre
 - Email: lahudhotre667@gmail.com
 
----
-
-Thanks for visiting — if you want a different layout (minimal, more visuals, or project screenshots) I can add that next.
+I’m open to collaborations, AI projects, and opportunities in machine learning and generative AI.
