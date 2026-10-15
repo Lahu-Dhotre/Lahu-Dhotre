@@ -38,6 +38,32 @@ Key outcomes
 
 ---
 
+## ML & Data Science Projects
+Here are additional machine learning and data-science projects from my repositories that showcase classical ML, time-series forecasting, recommendation systems, and applied classification work.
+
+- House Price Prediction Model — https://github.com/Lahu-Dhotre/House-Price-Prediction-Model  
+  Regression model with feature engineering and evaluation for real-estate price prediction.
+
+- Stock Prediction (Time-series) — https://github.com/Lahu-Dhotre/stock-prediction-time-series  
+  Time-series forecasting models and experiments for stock price prediction and evaluation.
+
+- Movie Recommendation System — https://github.com/Lahu-Dhotre/movie-recommendation-system  
+  Collaborative filtering and content-based recommendation examples with evaluation.
+
+- Chronic Kidney Disease Classifier — https://github.com/Lahu-Dhotre/chronic-kidney-disease-classifier-main  
+  Medical dataset classification pipeline with preprocessing, modeling, and reporting.
+
+- Loan Approval Prediction — https://github.com/Lahu-Dhotre/loan-approval-prediction  
+  Binary classification pipeline for loan approval with feature processing and model comparison.
+
+- Clustering Algorithms Demo — https://github.com/Lahu-Dhotre/clustering-algorithms-demo-main  
+  Hands-on demonstrations of clustering methods and visualizations.
+
+- Application Feedback Analysis — https://github.com/Lahu-Dhotre/application-feedback-analysis  
+  NLP-based sentiment and feedback analysis to drive product insights.
+
+---
+
 ## AI Agents & Orchestration
 I design and implement agentic AI systems for complex workflows that require planning, tool-calling, memory, and coordination between multiple agents. My agent work focuses on reliability, safety, and measurable outcomes.
 
