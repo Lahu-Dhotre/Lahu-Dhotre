@@ -2,7 +2,7 @@
 
 AI/ML Engineer | Generative AI | LLMs | RAG | MCP | Agentic AI
 
-Pune, India  •  lahudhotre667@gmail.com
+Pune, India • lahudhotre667@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
 
@@ -10,50 +10,53 @@ Pune, India  •  lahudhotre667@gmail.com
 
 ## About Me
 
-I am an AI/ML Engineer focused on building production-ready Machine Learning, Generative AI, and Agentic AI systems. My work spans LLM architecture, retrieval-augmented generation (RAG), multi-agent systems, and AI application design with a strong emphasis on performance, reliability, and scalability.
+I am an AI/ML Engineer focused on building scalable, production-ready machine learning and generative AI systems. My work spans large language models (LLMs), retrieval-augmented generation (RAG), multi-agent systems, MLOps, and AI product design.
 
-I enjoy turning research ideas into practical, deployable applications with strong attention to performance, reliability, and user experience.
-
----
-
-## Core Focus
-
-- Machine Learning and Deep Learning
-- Generative AI and Large Language Models (LLMs)
-- Agentic AI and Multi-Agent Systems
-- RAG and GraphRAG architectures
-- Model Context Protocol (MCP)
-- AI System Design and LLMOps
-- Cloud deployment and MLOps
-- Responsible AI and evaluation
+I enjoy transforming research ideas into real-world AI applications with a strong emphasis on performance, reliability, observability, and business impact.
 
 ---
 
-## Technical Skills
+## What I Do
 
-### Programming Languages
+- Build AI-powered applications using LLMs, RAG, and agentic workflows
+- Design and deploy ML pipelines for real-world use cases
+- Develop intelligent document search, summarization, and copilots
+- Create scalable ML/AI architecture for production environments
+- Improve model evaluation, experimentation, and deployment workflows
+
+---
+
+## Core Expertise
+
+### AI & ML
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG
+- Agentic AI / Multi-Agent Systems
+- Prompt Engineering
+- Model Fine-tuning
+- Model Evaluation
+
+### Data & Engineering
 - Python
 - SQL
-
-### Machine Learning & Data
-- scikit-learn
-- PyTorch
-- TensorFlow
-- Keras
 - Pandas
 - NumPy
 - PySpark
+- Feature Engineering
+- Data Pipelines
+- MLOps
+- CI/CD
 
-### Generative AI & LLMs
+### Generative AI Stack
 - Azure OpenAI
 - GPT
 - Llama
 - Hugging Face
-- Prompt Engineering
-- Fine-Tuning
-- Model Evaluation
-
-### Agentic AI & RAG
 - LangChain
 - LangGraph
 - CrewAI
@@ -65,45 +68,107 @@ I enjoy turning research ideas into practical, deployable applications with stro
 - PGVector
 - Azure AI Search
 - Neo4j
-- Hybrid Search
-- Semantic Search
-- Reranking
 
-### Backend & Deployment
-- FastAPI
-- Flask
-- REST APIs
-- Pydantic
-- JWT
-- OAuth 2.0
+### Cloud & Deployment
 - Docker
 - Kubernetes
 - Azure
 - AWS
 - GCP
+- FastAPI
+- Flask
+- REST APIs
 - MLflow
-- CI/CD
 
 ---
 
-## Featured Project Areas
+## Featured AI & ML Projects
 
-I build and contribute to AI systems across the following types of projects:
+### 1. Enterprise Knowledge Assistant
+- Built a domain-aware AI assistant for enterprise knowledge retrieval
+- Integrated document ingestion, semantic search, and contextual answer generation
+- Used RAG architecture with vector databases and reranking for better retrieval quality
+- Tech stack: Python, Azure OpenAI, LangChain, FAISS, FastAPI
 
-- AI-powered document Q&A and enterprise knowledge assistants
-- RAG pipelines with semantic search and reranking
-- Multi-agent AI workflows for task automation
-- LLM-powered copilots and conversational interfaces
-- Production-ready ML and AI deployment pipelines
-- Data-driven analytics and AI workflow optimization
+### 2. AI-Powered Q&A System for Documents
+- Developed an intelligent document chat application over internal business documents
+- Enabled semantic search, summarization, and answer grounding from trusted sources
+- Focused on accuracy, traceability, and user trust
+- Tech stack: Python, RAG, Vector DB, LLMs, REST APIs
 
-### Example Project Themes
+### 3. Multi-Agent Automation Workflow
+- Designed a multi-agent AI workflow to automate research and task execution
+- Coordinated agents for planning, data retrieval, reasoning, and output generation
+- Applied to workflow automation and business process optimization
+- Tech stack: LangGraph, CrewAI, Python, LLM orchestration
 
-- Customer Support AI Assistant
-- Knowledge Base Search and Retrieval System
-- Multi-Agent Research or Automation Bot
-- Document Intelligence and Summarization Tool
-- AI Workflow Orchestrator for Business Processes
+### 4. Customer Support AI Copilot
+- Built an LLM-powered support assistant for contextual ticket handling and recommendations
+- Combined retrieval, summarization, and response generation for support teams
+- Improved productivity and consistency in customer-facing workflows
+- Tech stack: LLMs, RAG, NLP, FastAPI, Azure AI services
+
+### 5. ML Pipeline for Predictive Analytics
+- Designed a machine learning pipeline for structured data analysis and model deployment
+- Included preprocessing, model training, validation, and monitoring workflows
+- Focused on reproducibility and deployment practices
+- Tech stack: Python, scikit-learn, MLflow, Docker
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- SQL
+
+### ML & Data Tools
+- scikit-learn
+- PyTorch
+- TensorFlow
+- Keras
+- Pandas
+- NumPy
+- PySpark
+
+### Generative AI & RAG
+- Azure OpenAI
+- GPT
+- Llama
+- Hugging Face
+- Prompt Engineering
+- Fine-Tuning
+- Model Evaluation
+- Hybrid Search
+- Semantic Search
+- Reranking
+
+### Agentic AI & Backend
+- LangChain
+- LangGraph
+- CrewAI
+- Google ADK
+- MCP
+- FastAPI
+- Flask
+- Pydantic
+- JWT
+- OAuth 2.0
+
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- Azure
+- AWS
+- GCP
+- CI/CD
+- MLflow
+
+---
+
+## Why I Build AI Systems
+
+I believe the real value of AI is not just model accuracy, but how well it integrates with business workflows, improves decision-making, and creates trustworthy user experiences. I focus on building systems that are practical, scalable, and useful in real production environments.
 
 ---
 
@@ -113,4 +178,4 @@ I build and contribute to AI systems across the following types of projects:
 - GitHub: [@Lahu-Dhotre](https://github.com/Lahu-Dhotre)
 - Email: lahudhotre667@gmail.com
 
-Thanks for visiting my profile. I’m always open to collaborating on AI, ML, LLM, and Agentic AI projects.
+I’m always open to collaborating on AI, ML, LLM, RAG, and Agentic AI projects.
