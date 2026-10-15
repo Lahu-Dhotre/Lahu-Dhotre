@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lahu Dhotre 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C[.....]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C[..]"/>
 </p>
 
 <p align="center">
@@ -12,33 +12,38 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-AI/ML Engineer specializing in Machine Learning, Deep Learning, Generative AI, and Agentic AI, with expertise in LLM architectures, multi-agent orchestration, advanced RAG, and Model Context Protocol (MCP) integrations. Skilled in designing and developing scalable, reliable, and secure production-ready AI systems, optimizing model performance, and delivering measurable business impact through intelligent automation and enterprise AI solutions.
-
----
-
-## Professional Summary
-
-AI/ML Engineer building production-grade Machine Learning, Generative AI, and Agentic AI systems. I design LLM architectures, multi-agent orchestration, advanced RAG pipelines, and MCP integrations—engineering scalable, secure, and cost-efficient AI services that deliver measurable business outcomes.
-
-Key outcomes
-
-- 30% reduction in response latency and 25% lower inference costs via prompt compression & semantic caching
-- ~90% accuracy for automated Risk & Control Matrices (RCMs) in regulatory workflows
-- 40% operational efficiency gain by automating regulatory document processing
+AI/ML Engineer specializing in Machine Learning, Deep Learning, Generative AI, and Agentic AI, with expertise in LLM architectures, multi-agent orchestration, advanced Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) integrations. Skilled in building scalable, reliable, secure, and production-ready AI systems that optimize performance and deliver measurable business impact through intelligent automation and enterprise AI solutions.
 
 ---
 
-## Core Focus
+## 🚀 Professional Summary
+
+I build production-grade Machine Learning, Generative AI, and Agentic AI systems that solve complex enterprise problems. My focus includes designing LLM architectures, developing advanced RAG pipelines, orchestrating multi-agent workflows, and integrating MCP to connect AI systems with enterprise tools and data sources.
+
+I aim to engineer scalable, secure, reliable, and cost-efficient AI services with a strong emphasis on performance optimization, responsible AI, and business outcomes.
+
+### 📊 Key Outcomes
+
+- ⚡ **30% reduction in response latency** through prompt compression and performance optimization.
+- 💰 **25% reduction in inference costs** through semantic caching and optimization techniques.
+- 🎯 **~90% accuracy** in automated Risk and Control Matrix (RCM) generation for regulatory workflows.
+- 📈 **40% improvement in operational efficiency** through regulatory document processing automation.
+
+---
+
+### 🛠️ Core Areas of Expertise
 
 - Machine Learning & Deep Learning
-- Generative AI & Large Language Models
-- RAG, GraphRAG & Knowledge Retrieval
-- Agentic AI & Multi-Agent Workflows
-- Model Fine-Tuning & Evaluation
-- MLOps, Deployment & Monitoring
-- AI Product Strategy & Real-World Impact
+- Generative AI & Large Language Models (LLMs)
+- Agentic AI & Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG) & GraphRAG
+- Model Context Protocol (MCP) Integrations
+- LLM Evaluation, Optimization & LLMOps
+- Vector Databases & Knowledge Graphs
+- Production AI Systems, API Development & Cloud Deployment
+- Responsible AI, Guardrails & Security
 
 ---
 
