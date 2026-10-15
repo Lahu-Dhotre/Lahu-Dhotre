@@ -1,16 +1,16 @@
 # Hi, I'm Lahu Dhotre 👋
 
-AI/ML Engineer | Data Scientist | Generative AI Specialist | LLM & RAG Systems
+AI/ML Engineer | Machine Learning & Deep Learning | Generative AI | Agentic AI | LLM Engineering | RAG & GraphRAG | MCP | Multi-Agent Systems | LLMOps | AI System Design | Python | SQL | PyTorch | TensorFlow | LangChain | LangGraph | FastAPI | Vector Databases | Knowledge Graphs | Cloud & MLOps | Responsible AI
 
 Pune, India • lahudhotre667@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotr[...] 
 
 ---
 
 ## About Me
 
-I’m an AI/ML Engineer and Data Scientist focused on building intelligent, scalable systems that turn data, models, and workflows into real business value. My work spans machine learning, predictive analytics, generative AI, retrieval-augmented generation (RAG), and agentic AI.
+I’m an AI/ML Engineer and Data Scientist focused on building intelligent, scalable systems that turn data, models, and workflows into real business value. My work spans machine learning, predict[...]
 
 I enjoy transforming research, experimentation, and product thinking into robust AI solutions that are practical, production-ready, and measurable.
 
@@ -173,7 +173,7 @@ I enjoy transforming research, experimentation, and product thinking into robust
 
 ## Why I Work in AI
 
-I’m motivated by the opportunity to build practical, scalable AI systems that create real-world value. I focus on solutions that combine strong modeling fundamentals with robust engineering, clear business context, and measurable impact.
+I’m motivated by the opportunity to build practical, scalable AI systems that create real-world value. I focus on solutions that combine strong modeling fundamentals with robust engineering, cl[...]
 
 ---
 
