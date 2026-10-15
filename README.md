@@ -6,7 +6,7 @@ I am an AI Engineer focused on building production-ready Machine Learning, Gener
 
 Pune, India • lahudhotre667@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahu-dhotre/)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
 
 ---
 
@@ -181,7 +181,7 @@ I’m motivated by the opportunity to build practical, scalable AI systems that 
 
 ## Let’s Connect
 
-- LinkedIn: [Lahu Dhotre](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Lahu Dhotre](https://www.linkedin.com/in/lahu-dhotre/)
 - GitHub: [@Lahu-Dhotre](https://github.com/Lahu-Dhotre)
 - Email: lahudhotre667@gmail.com
 
