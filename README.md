@@ -4,13 +4,13 @@ AI/ML Engineer | Generative AI | LLMs | RAG | MCP | Agentic AI
 
 Pune, India  •  lahudhotre667@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github)](https://github.com/Lahu-Dhotre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
 
 ---
 
 ## About Me
 
-I am an AI/ML Engineer focused on building production-ready Machine Learning, Generative AI, and Agentic AI systems. My work spans LLM architecture, retrieval-augmented generation (RAG), multi-agent orchestration, and scalable AI system design.
+I am an AI/ML Engineer focused on building production-ready Machine Learning, Generative AI, and Agentic AI systems. My work spans LLM architecture, retrieval-augmented generation (RAG), multi-agent systems, and AI application design with a strong emphasis on performance, reliability, and scalability.
 
 I enjoy turning research ideas into practical, deployable applications with strong attention to performance, reliability, and user experience.
 
@@ -107,14 +107,6 @@ I build and contribute to AI systems across the following types of projects:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lahu-Dhotre&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahu-Dhotre&layout=compact&theme=tokyonight)
-
----
-
 ## Connect With Me
 
 - LinkedIn: [Lahu Dhotre](https://www.linkedin.com/in/your-profile)
@@ -122,4 +114,3 @@ I build and contribute to AI systems across the following types of projects:
 - Email: lahudhotre667@gmail.com
 
 Thanks for visiting my profile. I’m always open to collaborating on AI, ML, LLM, and Agentic AI projects.
-
