@@ -1,19 +1,19 @@
 # 👋 Hi — I'm Lahu Dhotre
 
-AI/ML Engineer — Generative & Agentic AI · LLMs · RAG · MCP · Production ML  
+AI/ML Engineer — Machine Learning · Generative & Agentic AI · LLMs · RAG · MCP · Production ML  
 [lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lahu-dhotre/) · [GitHub](https://github.com/Lahu-Dhotre)
 
 ---
 
 ## About
 
-AI/ML Engineer specialized in building production-grade Generative AI and agentic systems. I design LLM architectures, orchestrate multi-agent workflows (using MCP), and build advanced RAG pipelines to deliver reliable, secure, and cost-efficient AI services that solve real business problems.
+AI/ML Engineer specialized in building production-grade Machine Learning, Generative AI, and agentic systems. I design LLM architectures, orchestrate multi-agent workflows (using MCP), and build advanced RAG pipelines to deliver reliable, secure, and cost-efficient AI services that solve real business problems.
 
 ---
 
 ## Professional Summary
 
-I build end-to-end AI solutions — from data ingestion and embeddings to model fine-tuning, serving, and observability — with a strong focus on performance, safety, and measurable business outcomes. I combine engineering best practices with model-centered design to deploy scalable AI products for enterprise use cases.
+I build end-to-end AI solutions — from data ingestion and embeddings to model fine-tuning, serving, and observability — with a strong focus on Machine Learning, performance, safety, and measurable business outcomes. I combine engineering best practices with model-centered design to deploy scalable AI products for enterprise use cases.
 
 Key outcomes
 - ⚡ 30% reduction in response latency via prompt compression & performance tuning
@@ -25,6 +25,7 @@ Key outcomes
 
 ## Core Expertise
 
+- Machine Learning & Deep Learning
 - LLM design & fine-tuning (GPT, LLaMA, Hugging Face)
 - Agentic AI, multi-agent orchestration & Model Context Protocol (MCP)
 - Retrieval-Augmented Generation (RAG), embeddings & semantic search
