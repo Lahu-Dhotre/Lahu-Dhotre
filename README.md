@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lahu Dhotre 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C[...]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C[..][...]" />
 </p>
 
 <p align="center">
@@ -14,12 +14,24 @@
 
 ## About Me
 
-I am an AI Engineer and Machine Learning enthusiast focused on building intelligent, scalable, and production-ready AI systems. My work spans Generative AI, LLM applications, RAG pipelines, multi-[...]
+I am an AI Engineer and Machine Learning enthusiast focused on building intelligent, scalable, and production-ready AI systems. My work spans Generative AI, LLM applications, RAG pipelines, multi-[...[...]
 
 I enjoy turning business problems into practical AI products by combining strong model design, clean engineering, and measurable impact.
 
 - Pune, India
 - Open to AI/ML collaborations and opportunities
+
+---
+
+## Professional Summary
+
+AI/ML Engineer focused on building production-grade Machine Learning, Generative AI, and Agentic AI systems. I specialize in LLM architectures, multi-agent orchestration, advanced RAG pipelines, and MCP integrations—engineering scalable, secure, and cost-efficient AI services that deliver measurable business outcomes.
+
+Key outcomes
+
+- 30% reduction in response latency and 25% lower inference costs via prompt compression & semantic caching
+- ~90% accuracy for automated Risk & Control Matrices (RCMs) in regulatory workflows
+- 40% operational efficiency gain by automating regulatory document processing
 
 ---
 
@@ -100,18 +112,6 @@ Cloud & MLOps: Azure, AWS, GCP, Docker, Kubernetes, MLflow, CI/CD, LLMOps
 Data Engineering: PySpark, Databricks, Snowflake, ETL/ELT, Data Pipelines
 
 Responsible AI: LLM Evaluation, AI Guardrails, Observability, Model Monitoring
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahu-Dhotre&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahu-Dhotre&theme=radical" alt="GitHub streak" />
-</p>
 
 ---
 
