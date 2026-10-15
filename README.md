@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lahu Dhotre 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C+Agentic+AI;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C[...]"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am an AI Engineer and Machine Learning enthusiast focused on building intelligent, scalable, and production-ready AI systems. My work spans Generative AI, LLM applications, RAG pipelines, multi-agent systems, predictive analytics, and end-to-end ML solutions.
+I am an AI Engineer and Machine Learning enthusiast focused on building intelligent, scalable, and production-ready AI systems. My work spans Generative AI, LLM applications, RAG pipelines, multi-[...]
 
 I enjoy turning business problems into practical AI products by combining strong model design, clean engineering, and measurable impact.
 
@@ -76,6 +76,30 @@ I enjoy turning business problems into practical AI products by combining strong
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+---
+
+## 🛠️ Technical Skills
+
+Programming: Python, SQL
+
+Machine Learning & Deep Learning: Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy
+
+Generative AI & LLMs: Azure OpenAI, GPT, Llama, Hugging Face, Prompt Engineering, Fine-Tuning
+
+Agentic AI: LangChain, LangGraph, CrewAI, Google ADK, MCP, Multi-Agent Systems
+
+RAG & GraphRAG: Hybrid Search, Embeddings, Semantic Search, Reranking, Knowledge Graphs
+
+Vector & Graph Databases: FAISS, Chroma, Pinecone, PGVector, Azure AI Search, Neo4j
+
+Backend & APIs: FastAPI, Flask, REST APIs, Pydantic, JWT, OAuth 2.0
+
+Cloud & MLOps: Azure, AWS, GCP, Docker, Kubernetes, MLflow, CI/CD, LLMOps
+
+Data Engineering: PySpark, Databricks, Snowflake, ETL/ELT, Data Pipelines
+
+Responsible AI: LLM Evaluation, AI Guardrails, Observability, Model Monitoring
 
 ---
 
