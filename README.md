@@ -1,6 +1,8 @@
 # Hi, I'm Lahu Dhotre 👋
 
-AI/ML Engineer | Machine Learning & Deep Learning | Generative AI | Agentic AI | LLM Engineering | RAG & GraphRAG | MCP | Multi-Agent Systems | LLMOps | AI System Design | Python | SQL | PyTorch | TensorFlow | LangChain | LangGraph | FastAPI | Vector Databases | Knowledge Graphs | Cloud & MLOps | Responsible AI
+AI Engineer | Machine Learning & Deep Learning | Generative AI | Agentic AI
+
+I am an AI Engineer focused on building production-ready Machine Learning, Generative AI, and Agentic AI applications. I work with LLMs, Retrieval-Augmented Generation (RAG), GraphRAG, Model Context Protocol (MCP), and multi-agent systems to develop intelligent, scalable AI solutions.
 
 Pune, India • lahudhotre667@gmail.com
 
