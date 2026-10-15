@@ -68,7 +68,9 @@ Junior Data Scientist Intern — TeamLease (Client: Bajaj Finserv) — Nov 2021 
 
 ## Contact
 
-Email: [lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com)  
-LinkedIn: https://www.linkedin.com/in/lahu-dhotre/ · GitHub: https://github.com/Lahu-Dhotre
+Email: [lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com)
+
+LinkedIn: https://www.linkedin.com/in/lahu-dhotre/
+GitHub: https://github.com/Lahu-Dhotre
 
 Open to: GenAI / Agentic AI projects, consulting, contract roles, and full-time opportunities. When contacting me, please include a short project summary, dataset/sample (if applicable), constraints, and desired impact.
