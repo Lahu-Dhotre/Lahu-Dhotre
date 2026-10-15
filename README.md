@@ -1,9 +1,5 @@
 # 👋 Hi — I'm Lahu Dhotre
 
-<p align="center">
-  <img src="https://github.com/Lahu-Dhotre.png" alt="Lahu Dhotre" width="160" style="border-radius:50%;" />
-</p>
-
 AI/ML Engineer — Machine Learning · Generative & Agentic AI · LLMs · RAG · MCP · Production ML  
 [lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lahu-dhotre/) · [GitHub](https://github.com/Lahu-Dhotre)
 
@@ -11,13 +7,13 @@ AI/ML Engineer — Machine Learning · Generative & Agentic AI · LLMs · RAG ·
 
 ## 👨‍💻 About Me
 
-AI/ML Engineer specializing in Machine Learning, Deep Learning, Generative AI, and Agentic AI, with expertise in LLM architectures, multi-agent orchestration, advanced Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) integrations. Skilled in building scalable, reliable, secure, and production-ready AI systems that optimize performance and deliver measurable business impact through intelligent automation and enterprise AI solutions.
+AI/ML Engineer specializing in Machine Learning, Deep Learning, Generative AI, and Agentic AI, with expertise in LLM architectures, multi-agent orchestration, advanced Retrieval-Augmented Generati[...]
 
 ---
 
 ## 🚀 Professional Summary
 
-I build production-grade Machine Learning, Generative AI, and Agentic AI systems that solve complex enterprise problems. My focus includes designing LLM architectures, developing advanced RAG pipelines, orchestrating multi-agent workflows, and integrating MCP to connect AI systems with enterprise tools and data sources.
+I build production-grade Machine Learning, Generative AI, and Agentic AI systems that solve complex enterprise problems. My focus includes designing LLM architectures, developing advanced RAG pipe[...]
 
 I aim to engineer scalable, secure, reliable, and cost-efficient AI services with a strong emphasis on performance optimization, responsible AI, and business outcomes.
 
@@ -79,4 +75,4 @@ Email: [lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com)
 LinkedIn: https://www.linkedin.com/in/lahu-dhotre/
 GitHub: https://github.com/Lahu-Dhotre
 
-Open to: GenAI / Agentic AI projects, consulting, contract roles, and full-time opportunities. When contacting me, please include a short project summary, dataset/sample (if applicable), constraints, and desired impact.
+Open to: GenAI / Agentic AI projects, consulting, contract roles, and full-time opportunities. When contacting me, please include a short project summary, dataset/sample (if applicable), constrain[...]
