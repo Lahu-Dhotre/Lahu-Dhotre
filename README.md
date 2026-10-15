@@ -4,28 +4,28 @@ AI/ML Engineer | Data Scientist | Generative AI | LLMs | RAG | MCP | Agentic AI
 
 Pune, India • lahudhotre667@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-black?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
 
 ---
 
 ## About Me
 
-I am an AI/ML Engineer and Data Scientist focused on building scalable, production-ready intelligent systems. My work spans machine learning, predictive analytics, large language models (LLMs), retrieval-augmented generation (RAG), agentic AI, and AI-powered product development.
+I’m an AI/ML Engineer and Data Scientist focused on designing and deploying scalable, production-ready intelligent systems. My expertise spans machine learning, predictive analytics, large language models (LLMs), retrieval-augmented generation (RAG), graph-based knowledge systems, agentic AI, and AI-driven product development.
 
-I enjoy turning data, research, and experimentation into practical AI systems that solve real-world problems and create measurable business value.
+I specialize in turning data, research, and experimentation into robust AI solutions that create measurable business impact and solve real-world problems.
 
 ---
 
 ## AI & ML Focus
 
-- Machine Learning and Deep Learning
-- Generative AI and LLM applications
+- Machine Learning & Deep Learning
+- Generative AI & LLM Applications
 - Retrieval-Augmented Generation (RAG)
-- GraphRAG and semantic search systems
-- Agentic AI and multi-agent workflows
-- Model fine-tuning and evaluation
-- MLOps and model deployment
-- Business-driven AI product development
+- GraphRAG & Semantic Search Systems
+- Agentic AI & Multi-Agent Workflows
+- Model Fine-Tuning, Evaluation & Benchmarking
+- MLOps, Monitoring & Production Deployment
+- AI Product Strategy & Business Value Creation
 
 ---
 
@@ -174,7 +174,7 @@ I enjoy turning data, research, and experimentation into practical AI systems th
 
 ## Why I Work in AI
 
-I am driven by the opportunity to build intelligent systems that are practical, scalable, and valuable in real-world environments. I focus on AI solutions that combine strong modeling with robust engineering, trustworthy outputs, and clear business impact.
+I am driven by the opportunity to build intelligent systems that are practical, scalable, and valuable in real-world environments. I focus on AI solutions that combine strong modeling with robust engineering, observability, and measurable business outcomes.
 
 ---
 
