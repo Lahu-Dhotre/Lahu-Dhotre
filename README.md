@@ -1,188 +1,64 @@
-# Hi, I'm Lahu Dhotre 👋
+<h1 align="center">Hi there, I'm Lahu Dhotre 👋</h1>
 
-AI Engineer | Machine Learning & Deep Learning | Generative AI | Agentic AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;ML+%26+Generative+AI;Building+RAG+%7C+Agentic+AI;Always+Learning" alt="Typing SVG" />
+</p>
 
-I am an AI Engineer focused on building production-ready Machine Learning, Generative AI, and Agentic AI applications. I work with LLMs, Retrieval-Augmented Generation (RAG), GraphRAG, model tuning, evaluation, deployment, and AI product development.
-
-Pune, India • lahudhotre667@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahu-dhotre/)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github&logoColor=white)](https://github.com/Lahu-Dhotre)
-
----
-
-## About Me
-
-I’m an AI/ML Engineer and Data Scientist focused on building intelligent, scalable systems that turn data, models, and workflows into real business value. My work spans machine learning, predictive analytics, deep learning, LLM applications, retrieval systems, and agentic AI.
-
-I enjoy transforming research, experimentation, and product thinking into robust AI solutions that are practical, production-ready, and measurable.
+<p align="center">
+  <a href="https://github.com/Lahu-Dhotre"><img src="https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/lahu-dhotre/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:lahudhotre667@gmail.com"><img src="https://img.shields.io/badge/Email-lahudhotre667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## Core Focus
+## 👨‍💻 About
 
-- Machine Learning & Deep Learning
-- Generative AI & LLM Applications
-- RAG, GraphRAG & Semantic Search
-- Agentic AI & Multi-Agent Systems
-- Model Fine-Tuning, Evaluation & Benchmarking
-- MLOps, Monitoring & Deployment
-- AI Product Strategy & Business Impact
+AI Engineer focused on building production-ready Machine Learning and Generative AI applications. I build RAG systems, multi-agent workflows, and model-driven products that solve real business problems.
+
+- Location: Pune, India
+- Email: lahudhotre667@gmail.com
+- Open to: Collaborations, freelance & full-time AI/ML roles
 
 ---
 
-## What I Build
+## 🔭 Featured Projects
 
-- LLM-powered applications and AI copilots
-- Enterprise-grade RAG systems for knowledge retrieval and Q&A
-- Multi-agent workflows for automation and decision support
-- Predictive ML models for forecasting and analytics
-- End-to-end AI pipelines from data processing to production deployment
-- Scalable AI products with evaluation, observability, and maintainability
+I picked a few public repositories from your account to feature. Click to explore:
 
----
+- [rag-ai-teaching-assistant](https://github.com/Lahu-Dhotre/rag-ai-teaching-assistant) — LLM + RAG-based teaching assistant, vector DB integration and document Q&A.
+- [agentic-ai-travel-planner](https://github.com/Lahu-Dhotre/agentic-ai-travel-planner) — Agentic AI travel planner demonstrating multi-agent workflows.
+- [ai-qa-system](https://github.com/Lahu-Dhotre/ai-qa-system) — Notebook demonstrating Q&A system pipelines and evaluation.
+- [movie-recommendation-system](https://github.com/Lahu-Dhotre/movie-recommendation-system) — Recommendation engine built with Python.
 
-## Skills & Expertise
-
-### AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- NLP
-- Predictive Analytics
-- Generative AI
-- LLM Applications
-- RAG / GraphRAG
-- Agentic AI
-- Multi-Agent Systems
-- Model Fine-Tuning
-- Model Evaluation
-- Prompt Engineering
-
-### Data Science & Data Engineering
-- Python
-- SQL
-- Pandas
-- NumPy
-- PySpark
-- Feature Engineering
-- Data Cleaning
-- Data Wrangling
-- Data Pipelines
-- MLOps
-
-### Generative AI Stack
-- Azure OpenAI
-- GPT
-- Llama
-- Hugging Face
-- LangChain
-- LangGraph
-- CrewAI
-- Google ADK
-- MCP
-- FAISS
-- Chroma
-- Pinecone
-- PGVector
-- Azure AI Search
-- Neo4j
-
-### Backend & Deployment
-- FastAPI
-- Flask
-- REST APIs
-- Pydantic
-- Docker
-- Kubernetes
-- Azure
-- AWS
-- GCP
-- MLflow
-- CI/CD
+(If you'd like different projects featured, tell me which ones and I'll swap them.)
 
 ---
 
-## Selected Projects
+## 🛠 Tech & Tools
 
-### 1. Enterprise Knowledge Assistant
-- Built an AI assistant for internal enterprise knowledge access and Q&A
-- Applied semantic retrieval and grounded generation for accurate responses
-- Improved knowledge discovery across large document repositories
-- Stack: Python, Azure OpenAI, LangChain, FAISS, FastAPI
-
-### 2. Document Q&A & Summarization System
-- Developed an LLM-driven document intelligence workflow for search and summarization
-- Enabled faster access to business knowledge with traceable outputs
-- Designed for enterprise use cases requiring accuracy and explainability
-- Stack: LLMs, RAG, Vector DB, REST APIs
-
-### 3. Predictive Analytics & ML Modeling
-- Built ML models for structured data analysis and forecasting
-- Focused on preprocessing, feature engineering, evaluation, and deployment
-- Used data-driven modeling to support operational decisions and efficiency
-- Stack: Python, scikit-learn, MLflow, Docker
-
-### 4. Multi-Agent AI Workflow Automation
-- Designed an agent-based workflow for research and task automation
-- Coordinated specialized agents for retrieval, reasoning, and synthesis
-- Applied to process-oriented workflows and decision support
-- Stack: LangGraph, CrewAI, Python, LLM orchestration
-
-### 5. Customer Support AI Copilot
-- Created an AI assistant to support customer and internal support operations
-- Combined retrieval, summarization, and generation to improve response quality
-- Increased productivity and consistency across support workflows
-- Stack: LLMs, RAG, NLP, FastAPI, Azure AI Services
+Python • PyTorch • TensorFlow • LangChain • LangGraph • Azure OpenAI • Hugging Face • FAISS • Chroma • Pinecone • PGVector • FastAPI • Docker • Kubernetes • MLflow
 
 ---
 
-## Technical Stack
+## 📊 GitHub Stats
 
-### Programming Languages
-- Python
-- SQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahu-Dhotre&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-### Machine Learning & Data Stack
-- scikit-learn
-- PyTorch
-- TensorFlow
-- Keras
-- Pandas
-- NumPy
-- PySpark
-
-### LLM & RAG Stack
-- OpenAI / Azure OpenAI
-- Hugging Face
-- LangChain
-- LangGraph
-- FAISS
-- Chroma
-- Pinecone
-- PGVector
-- Azure AI Search
-- Neo4j
-
-### Deployment & Cloud
-- Docker
-- Kubernetes
-- Azure
-- AWS
-- GCP
-- MLflow
-- CI/CD
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahu-Dhotre&theme=radical" alt="GitHub streak" />
+</p>
 
 ---
 
-## Why I Work in AI
+## 📫 Connect
 
-I’m motivated by the opportunity to build practical, scalable AI systems that create real-world value. I focus on solutions that combine strong modeling fundamentals with robust engineering, clear business context, and measurable outcomes.
-
----
-
-## Let’s Connect
-
-- LinkedIn: [Lahu Dhotre](https://www.linkedin.com/in/lahu-dhotre/)
-- GitHub: [@Lahu-Dhotre](https://github.com/Lahu-Dhotre)
+- LinkedIn: https://www.linkedin.com/in/lahu-dhotre/
+- GitHub: https://github.com/Lahu-Dhotre
 - Email: lahudhotre667@gmail.com
 
-I’m always open to collaborating on AI, ML, LLM, RAG, and Agentic AI projects.
+---
+
+Thanks for visiting — if you want a different layout (minimal, more visuals, or project screenshots) I can add that next.
