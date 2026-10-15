@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lahu Dhotre 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C[..]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7CAgents+%7C+LLMs;MCP+%7C+AI+Systems"/>
 </p>
 
 <p align="center">
