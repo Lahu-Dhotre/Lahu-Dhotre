@@ -1,124 +1,73 @@
-<h1 align="center">Hi, I'm Lahu Dhotre 👋</h1>
+# 👋 Hi — I'm Lahu Dhotre
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7CAgents+%7C+LLMs;MCP+%7C+AI+Systems"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lahu-Dhotre"><img src="https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/lahu-dhotre/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lahudhotre667@gmail.com"><img src="https://img.shields.io/badge/Email-lahudhotre667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+AI/ML Engineer — Generative & Agentic AI · LLMs · RAG · MCP · Production ML  
+[lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lahu-dhotre/) · [GitHub](https://github.com/Lahu-Dhotre)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-AI/ML Engineer specializing in Machine Learning, Deep Learning, Generative AI, and Agentic AI, with expertise in LLM architectures, multi-agent orchestration, advanced Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) integrations. Skilled in building scalable, reliable, secure, and production-ready AI systems that optimize performance and deliver measurable business impact through intelligent automation and enterprise AI solutions.
-
----
-
-## 🚀 Professional Summary
-
-I build production-grade Machine Learning, Generative AI, and Agentic AI systems that solve complex enterprise problems. My focus includes designing LLM architectures, developing advanced RAG pipelines, orchestrating multi-agent workflows, and integrating MCP to connect AI systems with enterprise tools and data sources.
-
-I aim to engineer scalable, secure, reliable, and cost-efficient AI services with a strong emphasis on performance optimization, responsible AI, and business outcomes.
-
-### 📊 Key Outcomes
-
-- ⚡ **30% reduction in response latency** through prompt compression and performance optimization.
-- 💰 **25% reduction in inference costs** through semantic caching and optimization techniques.
-- 🎯 **~90% accuracy** in automated Risk and Control Matrix (RCM) generation for regulatory workflows.
-- 📈 **40% improvement in operational efficiency** through regulatory document processing automation.
+AI/ML Engineer specialized in building production-grade Generative AI and agentic systems. I design LLM architectures, orchestrate multi-agent workflows (using MCP), and build advanced RAG pipelines to deliver reliable, secure, and cost-efficient AI services that solve real business problems.
 
 ---
 
-### 🛠️ Core Areas of Expertise
+## Professional Summary
 
-- Machine Learning & Deep Learning
-- Generative AI & Large Language Models (LLMs)
-- Agentic AI & Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG) & GraphRAG
-- Model Context Protocol (MCP) Integrations
-- LLM Evaluation, Optimization & LLMOps
-- Vector Databases & Knowledge Graphs
-- Production AI Systems, API Development & Cloud Deployment
-- Responsible AI, Guardrails & Security
+I build end-to-end AI solutions — from data ingestion and embeddings to model fine-tuning, serving, and observability — with a strong focus on performance, safety, and measurable business outcomes. I combine engineering best practices with model-centered design to deploy scalable AI products for enterprise use cases.
+
+Key outcomes
+- ⚡ 30% reduction in response latency via prompt compression & performance tuning
+- 💰 25% lower inference costs using semantic caching and optimized pipelines
+- 🎯 ~90% accuracy in automated RCM generation for regulatory workflows
+- 📈 40% operational efficiency gain from document-processing automation
 
 ---
 
-## Featured Projects
+## Core Expertise
 
-- [rag-ai-teaching-assistant](https://github.com/Lahu-Dhotre/rag-ai-teaching-assistant)  
-  AI-powered teaching assistant using Retrieval-Augmented Generation for grounded Q&A and learning support.
-
-- [agentic-ai-travel-planner](https://github.com/Lahu-Dhotre/agentic-ai-travel-planner)  
-  Multi-agent travel planner using agentic workflows for planning and reasoning tasks.
-
-- [ai-qa-system](https://github.com/Lahu-Dhotre/ai-qa-system)  
-  Question-answering system project focused on building AI-powered information retrieval experiences.
-
-- [movie-recommendation-system](https://github.com/Lahu-Dhotre/movie-recommendation-system)  
-  Recommendation-based ML application for personalized suggestions and ranking.
+- LLM design & fine-tuning (GPT, LLaMA, Hugging Face)
+- Agentic AI, multi-agent orchestration & Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG), embeddings & semantic search
+- Vector stores & knowledge graphs: FAISS, Chroma, Pinecone, Neo4j, PGVector
+- Production deployment: FastAPI, Docker, Kubernetes, Azure/AWS, Triton/ONNX
+- MLOps & observability: MLflow, monitoring, CI/CD, evaluation pipelines
+- Responsible AI: guardrails, bias checks, explainability, drift detection
 
 ---
 
-## Tech Stack
+## Selected Projects
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+- agentic-ai-travel-planner — Multi-agent travel planner demonstrating orchestration & tool-calling.  
+  https://github.com/Lahu-Dhotre/agentic-ai-travel-planner
 
-### LLM / RAG / Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
-![Chroma](https://img.shields.io/badge/Chroma-7A3FF2?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-3A3A3A?style=flat-square)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+- rag-ai-teaching-assistant — RAG-powered teaching assistant with embedding + retrieval pipeline.  
+  https://github.com/Lahu-Dhotre/rag-ai-teaching-assistant
 
-### Data & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+- ai-qa-system — LLM-based QA system combining retrieval and answer synthesis.  
+  https://github.com/Lahu-Dhotre/ai-qa-system
+
+- movie-recommendation-system — Recommendation & ranking pipeline for personalized suggestions.  
+  https://github.com/Lahu-Dhotre/movie-recommendation-system
+
+(Consider pinning 3–5 repos on your GitHub profile to highlight these.)
 
 ---
 
-## 🛠️ Technical Skills
+## Experience (short)
 
-Programming: Python, SQL
+AI/ML Engineer — Saitech Manpower Services (Client: SPCL Pvt. Ltd.) — Jan 2024 – May 2025  
+Built CompliEaze: enterprise agentic AI platform (Azure OpenAI, LLaMA, LangGraph, hybrid RAG, Neo4j, OCR ingestion).
 
-Machine Learning & Deep Learning: Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy
+Data Scientist — Saitech Manpower Services — Aug 2023 – Jan 2024  
+Built forecasting and optimization pipelines for customer behavior and low-latency inference.
 
-Generative AI & LLMs: Azure OpenAI, GPT, Llama, Hugging Face, Prompt Engineering, Fine-Tuning
-
-Agentic AI: LangChain, LangGraph, CrewAI, Google ADK, MCP, Multi-Agent Systems
-
-RAG & GraphRAG: Hybrid Search, Embeddings, Semantic Search, Reranking, Knowledge Graphs
-
-Vector & Graph Databases: FAISS, Chroma, Pinecone, PGVector, Azure AI Search, Neo4j
-
-Backend & APIs: FastAPI, Flask, REST APIs, Pydantic, JWT, OAuth 2.0
-
-Cloud & MLOps: Azure, AWS, GCP, Docker, Kubernetes, MLflow, CI/CD, LLMOps
-
-Data Engineering: PySpark, Databricks, Snowflake, ETL/ELT, Data Pipelines
-
-Responsible AI: LLM Evaluation, AI Guardrails, Observability, Model Monitoring
+Junior Data Scientist Intern — TeamLease (Client: Bajaj Finserv) — Nov 2021 – Jul 2022
 
 ---
 
-## Let's Connect
+## Contact
 
-- LinkedIn: https://www.linkedin.com/in/lahu-dhotre/
-- GitHub: https://github.com/Lahu-Dhotre
-- Email: lahudhotre667@gmail.com
+Email: [lahudhotre667@gmail.com](mailto:lahudhotre667@gmail.com)  
+LinkedIn: https://www.linkedin.com/in/lahu-dhotre/ · GitHub: https://github.com/Lahu-Dhotre
 
-I’m open to collaborations, AI projects, and opportunities in machine learning and generative AI.
+Open to: GenAI / Agentic AI projects, consulting, contract roles, and full-time opportunities. When contacting me, please include a short project summary, dataset/sample (if applicable), constraints, and desired impact.
