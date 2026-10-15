@@ -10,9 +10,9 @@ Pune, India • lahudhotre667@gmail.com
 
 ## About Me
 
-I’m an AI/ML Engineer and Data Scientist focused on designing and deploying scalable, production-ready intelligent systems. My expertise spans machine learning, predictive analytics, large language models (LLMs), retrieval-augmented generation (RAG), graph-based knowledge systems, agentic AI, and AI-driven product development.
+I’m an AI/ML Engineer and Data Scientist focused on building scalable, production-ready intelligent systems that combine machine learning, predictive analytics, and modern generative AI. My work spans large language models (LLMs), retrieval-augmented generation (RAG), graph-based knowledge systems, agentic AI, and AI-powered product development.
 
-I specialize in turning data, research, and experimentation into robust AI solutions that create measurable business impact and solve real-world problems.
+I enjoy translating research, experimentation, and data into practical AI solutions that solve real-world problems and deliver measurable business value.
 
 ---
 
@@ -25,7 +25,7 @@ I specialize in turning data, research, and experimentation into robust AI solut
 - Agentic AI & Multi-Agent Workflows
 - Model Fine-Tuning, Evaluation & Benchmarking
 - MLOps, Monitoring & Production Deployment
-- AI Product Strategy & Business Value Creation
+- AI Product Strategy & Business Impact
 
 ---
 
@@ -174,7 +174,7 @@ I specialize in turning data, research, and experimentation into robust AI solut
 
 ## Why I Work in AI
 
-I am driven by the opportunity to build intelligent systems that are practical, scalable, and valuable in real-world environments. I focus on AI solutions that combine strong modeling with robust engineering, observability, and measurable business outcomes.
+I’m driven by the opportunity to build intelligent systems that are practical, scalable, and valuable in real-world environments. I focus on AI solutions that combine strong modeling with robust engineering, observability, and measurable business outcomes.
 
 ---
 
