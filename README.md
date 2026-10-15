@@ -1,60 +1,48 @@
-# 👋 Hi — I'm LAHU DHOTRE
-AI/ML Engineer | Generative & Agentic AI · LLMs · RAG · MCP · Python
-Pune, India · lahudhotre667@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/Lahu-Dhotre)
+# Hi, I'm Lahu Dhotre 👋
+
+AI/ML Engineer | Generative AI | LLMs | RAG | MCP | Agentic AI
+
+Pune, India  •  lahudhotre667@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  [![GitHub](https://img.shields.io/badge/GitHub-Lahu--Dhotre-181717?logo=github)](https://github.com/Lahu-Dhotre)
 
 ---
 
-## Professional Summary
-AI/ML Engineer focused on building production-grade Machine Learning, Generative AI, and Agentic AI systems. I specialize in LLM architectures, multi-agent orchestration, advanced RAG pipelines, and scalable AI application design for real-world business impact.
+## About Me
 
-I work with Retrieval-Augmented Generation (RAG), GraphRAG, Model Context Protocol (MCP), and modern LLM frameworks to build intelligent, production-ready solutions.
+I am an AI/ML Engineer focused on building production-ready Machine Learning, Generative AI, and Agentic AI systems. My work spans LLM architecture, retrieval-augmented generation (RAG), multi-agent orchestration, and scalable AI system design.
+
+I enjoy turning research ideas into practical, deployable applications with strong attention to performance, reliability, and user experience.
 
 ---
 
-## 🎯 Core Interests
+## Core Focus
 
-- Machine Learning & Deep Learning
-- Generative AI & Large Language Models
-- Agentic AI & Multi-Agent Architectures
-- Retrieval-Augmented Generation (RAG) & GraphRAG
+- Machine Learning and Deep Learning
+- Generative AI and Large Language Models (LLMs)
+- Agentic AI and Multi-Agent Systems
+- RAG and GraphRAG architectures
 - Model Context Protocol (MCP)
-- AI System Design & LLMOps
-- Responsible AI, Evaluation & Guardrails
-- Production AI Applications and Cloud Deployment
+- AI System Design and LLMOps
+- Cloud deployment and MLOps
+- Responsible AI and evaluation
 
 ---
 
-## 🤖 AI Engineering
-- RAG, GraphRAG, MCP, and multi-agent systems
-- LLM application design and productionization
-- Prompt engineering, evaluation, and optimization
-- AI system design, orchestration, and observability
+## Technical Skills
 
-## 🧠 ML / DL
-- Model development and optimization
-- Feature engineering and evaluation
-- Deep learning workflows with PyTorch and TensorFlow
-- Classical machine learning with scikit-learn
-
-## ☁️ Deployment & Cloud
-- FastAPI, Flask, REST APIs, Docker
-- Azure, AWS, GCP, Kubernetes, and MLOps
-- CI/CD, MLflow, and scalable deployment workflows
-
-## 🛠️ Technical Skills
-
-### Programming
+### Programming Languages
 - Python
 - SQL
 
-### Machine Learning & Deep Learning
+### Machine Learning & Data
 - scikit-learn
 - PyTorch
 - TensorFlow
 - Keras
 - Pandas
 - NumPy
+- PySpark
 
 ### Generative AI & LLMs
 - Azure OpenAI
@@ -63,67 +51,75 @@ I work with Retrieval-Augmented Generation (RAG), GraphRAG, Model Context Protoc
 - Hugging Face
 - Prompt Engineering
 - Fine-Tuning
+- Model Evaluation
 
-### Agentic AI
+### Agentic AI & RAG
 - LangChain
 - LangGraph
 - CrewAI
 - Google ADK
 - MCP
-- Multi-Agent Systems
-
-### RAG & GraphRAG
-- Hybrid Search
-- Embeddings
-- Semantic Search
-- Reranking
-- Knowledge Graphs
-
-### Vector & Graph Databases
 - FAISS
 - Chroma
 - Pinecone
 - PGVector
 - Azure AI Search
 - Neo4j
+- Hybrid Search
+- Semantic Search
+- Reranking
 
-### Backend & APIs
+### Backend & Deployment
 - FastAPI
 - Flask
 - REST APIs
 - Pydantic
 - JWT
 - OAuth 2.0
-
-### Cloud & MLOps
+- Docker
+- Kubernetes
 - Azure
 - AWS
 - GCP
-- Docker
-- Kubernetes
 - MLflow
 - CI/CD
-- LLMOps
-
-### Data Engineering
-- PySpark
-- Databricks
-- Snowflake
-- ETL/ELT
-- Data Pipelines
-
-### Responsible AI
-- LLM Evaluation
-- AI Guardrails
-- Observability
-- Model Monitoring
 
 ---
 
-## 🤝 Connect With Me
+## Featured Project Areas
 
-- LinkedIn: Lahu Dhotre
-- GitHub: Lahu-Dhotre
+I build and contribute to AI systems across the following types of projects:
+
+- AI-powered document Q&A and enterprise knowledge assistants
+- RAG pipelines with semantic search and reranking
+- Multi-agent AI workflows for task automation
+- LLM-powered copilots and conversational interfaces
+- Production-ready ML and AI deployment pipelines
+- Data-driven analytics and AI workflow optimization
+
+### Example Project Themes
+
+- Customer Support AI Assistant
+- Knowledge Base Search and Retrieval System
+- Multi-Agent Research or Automation Bot
+- Document Intelligence and Summarization Tool
+- AI Workflow Orchestrator for Business Processes
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lahu-Dhotre&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahu-Dhotre&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+- LinkedIn: [Lahu Dhotre](https://www.linkedin.com/in/your-profile)
+- GitHub: [@Lahu-Dhotre](https://github.com/Lahu-Dhotre)
 - Email: lahudhotre667@gmail.com
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me to discuss AI, Machine Learning, Generative AI, and Agentic AI.
+Thanks for visiting my profile. I’m always open to collaborating on AI, ML, LLM, and Agentic AI projects.
+
