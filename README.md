@@ -73,10 +73,10 @@ I aim to engineer scalable, secure, reliable, and cost-efficient AI services wit
 
 ## Experience (short)
 
-AI/ML Engineer — Saitech Manpower Services (Client: SPCL Pvt. Ltd.) — Jan 2024 – May 2025  
+AI/ML Engineer — Saitech Manpower Services (Client: SPCL Pvt. Ltd.) — Feb 2024 – May 2025  
 Built CompliEaze: enterprise agentic AI platform (Azure OpenAI, LLaMA, LangGraph, hybrid RAG, Neo4j, OCR ingestion).
 
-Data Scientist — Saitech Manpower Services — Aug 2023 – Jan 2024  
+Data Scientist — Saitech Manpower Services — Aug 2023 – Feb 2024  
 Built forecasting and optimization pipelines for customer behavior and low-latency inference.
 
 Junior Data Scientist Intern — TeamLease (Client: Bajaj Finserv) — Nov 2021 – Jul 2022  
