@@ -79,7 +79,8 @@ Built CompliEaze: enterprise agentic AI platform (Azure OpenAI, LLaMA, LangGraph
 Data Scientist — Saitech Manpower Services — Aug 2023 – Jan 2024  
 Built forecasting and optimization pipelines for customer behavior and low-latency inference.
 
-Junior Data Scientist Intern — TeamLease (Client: Bajaj Finserv) — Nov 2021 – Jul 2022
+Junior Data Scientist Intern — TeamLease (Client: Bajaj Finserv) — Nov 2021 – Jul 2022  
+new text new in readme file
 
 ---
 
